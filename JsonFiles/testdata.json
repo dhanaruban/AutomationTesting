@@ -1,0 +1,20 @@
+{
+	"email": [
+		{
+			"emailid":"example@gmail.com"
+		},
+		{
+			"emailid":"sample@gmail.com"
+		},
+		{
+			"emailid":"example.gmail.com"
+		},
+		{
+			"emailid":"gmail.com"
+		},
+		{
+			"emailid":"sample@com"
+		}
+	
+	]
+}
